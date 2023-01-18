@@ -6,3 +6,5 @@ It is built in Python and with the use of the Python Standard Library module `ra
 - allows more than one consecutive game
 - keeps the result of the player and the computer oponent between the games
     - after restart the results are cleared
+- it is published in Repl.it
+[Simple Rock Paper Scissors Game](https://replit.com/@vaskoninov/RockPaperScissors#main.py)
